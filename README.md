@@ -1,5 +1,3 @@
-# Exercism Bash track
-
-My solutions for [*Exercism's Bash track*](https://exercism.org/tracks/bash).
+My solutions to [Exercism's Bash track](https://exercism.org/tracks/bash).
 
 Adding…
